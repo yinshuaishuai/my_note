@@ -32,4 +32,4 @@ java compiler 这里改为 8
 ![服务示意图.png](../../../images/java/尚硅谷springcloud/3-项目搭建/服务示意图.png)
 上图是常见的RESTful API风格 80端口调用微服务8001端口的逻辑层  
 
-![img.png](../../../images/java/尚硅谷springcloud/3-项目搭建/项目结构图.png)
+![项目结构图.png](../../../images/java/尚硅谷springcloud/3-项目搭建/项目结构图.png)
