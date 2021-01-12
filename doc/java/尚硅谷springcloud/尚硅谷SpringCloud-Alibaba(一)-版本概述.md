@@ -153,7 +153,7 @@ SNAPSHOT: 快照版，可以稳定使用，且仍在继续改进版本
 ![cloud版本.png](../../../images/java/尚硅谷springcloud/1-版本概述/cloud版本.png)
 
 点击Reference Doc
-![img.png](../../../images/java/尚硅谷springcloud/1-版本概述/官方推荐版本.png)
+![官方推荐版本.png](../../../images/java/尚硅谷springcloud/1-版本概述/官方推荐版本.png)
 
 springcloud对应boot版本一目了然
 
